@@ -25,3 +25,9 @@ Hola a todos, me llamo **Johan✌️** y en este repositorio documentaré mi apr
 - [Elixir](https://elixir-lang.org/install.html)
 
 Para instalación en otros SO : https://elixir-lang.org/install.html#windows
+
+
+## Recursos adicionales que uso
+
+Canal de Youtube: [Makigas](https://www.youtube.com/watch?v=TWt-3I77OM0&list=PLTd5ehIj0goPm2HGj-YVy-IlIfBXDL9NC
+)
