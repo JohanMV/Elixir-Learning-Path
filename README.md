@@ -12,6 +12,12 @@ Hola a todos, me llamo **Johan✌️** y en este repositorio documentaré mi apr
 - Aprender a estructurar código con módulos y composición.
 - Construir APIs REST básicas con Phoenix.
 
+## 💻 Usos Principales de Elixir:
+* **Web & APIs:** Alta escalabilidad con **Phoenix**.
+* **Sistemas en Tiempo Real:** Gestión de miles de conexiones simultáneas (Chats, Dashboards).
+* **Ciberseguridad:** Construcción de infraestructura defensiva, **IDS** y Firewalls de baja latencia.
+* **Disponibilidad:** Filosofía *Let it crash* para sistemas que nunca se detienen.
+
 ## 🛠️ Requisitos e Instalación (Windows)
 
 - SO: Linux, macOS o Windows 
